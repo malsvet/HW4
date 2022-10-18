@@ -1,0 +1,15 @@
+N:\ШАГ РПО\C#\Oil\bin\Debug\net6.0\Oil.exe
+N:\ШАГ РПО\C#\Oil\bin\Debug\net6.0\Oil.deps.json
+N:\ШАГ РПО\C#\Oil\bin\Debug\net6.0\Oil.runtimeconfig.json
+N:\ШАГ РПО\C#\Oil\bin\Debug\net6.0\Oil.dll
+N:\ШАГ РПО\C#\Oil\bin\Debug\net6.0\Oil.pdb
+N:\ШАГ РПО\C#\Oil\obj\Debug\net6.0\Oil.csproj.AssemblyReference.cache
+N:\ШАГ РПО\C#\Oil\obj\Debug\net6.0\Oil.GeneratedMSBuildEditorConfig.editorconfig
+N:\ШАГ РПО\C#\Oil\obj\Debug\net6.0\Oil.AssemblyInfoInputs.cache
+N:\ШАГ РПО\C#\Oil\obj\Debug\net6.0\Oil.AssemblyInfo.cs
+N:\ШАГ РПО\C#\Oil\obj\Debug\net6.0\Oil.csproj.CoreCompileInputs.cache
+N:\ШАГ РПО\C#\Oil\obj\Debug\net6.0\Oil.dll
+N:\ШАГ РПО\C#\Oil\obj\Debug\net6.0\refint\Oil.dll
+N:\ШАГ РПО\C#\Oil\obj\Debug\net6.0\Oil.pdb
+N:\ШАГ РПО\C#\Oil\obj\Debug\net6.0\Oil.genruntimeconfig.cache
+N:\ШАГ РПО\C#\Oil\obj\Debug\net6.0\ref\Oil.dll
